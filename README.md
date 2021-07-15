@@ -1,4 +1,5 @@
 # 教室管理系统SSM
+![](https://img.shields.io/badge/SSM-%E6%95%99%E5%AE%A4%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F-brightgreen)
 SSM框架搭建的教室管理系统，可以在Eclipse上和IDEA上运行
 在IDEA运行是修改后的Maven项目，适合作为毕业设计来参考使用，具体内容请添加：QQ2781261354
 
